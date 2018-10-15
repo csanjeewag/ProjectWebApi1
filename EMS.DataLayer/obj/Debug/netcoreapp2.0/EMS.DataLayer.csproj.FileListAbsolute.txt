@@ -1,0 +1,9 @@
+D:\softawre project\WebAPI\Chathura\EMS\EMS.DataLayer\bin\Debug\netcoreapp2.0\EMS.DataLayer.deps.json
+D:\softawre project\WebAPI\Chathura\EMS\EMS.DataLayer\bin\Debug\netcoreapp2.0\EMS.DataLayer.dll
+D:\softawre project\WebAPI\Chathura\EMS\EMS.DataLayer\obj\Debug\netcoreapp2.0\EMS.DataLayer.csprojResolveAssemblyReference.cache
+D:\softawre project\WebAPI\Chathura\EMS\EMS.DataLayer\obj\Debug\netcoreapp2.0\EMS.DataLayer.csproj.CoreCompileInputs.cache
+D:\softawre project\WebAPI\Chathura\EMS\EMS.DataLayer\obj\Debug\netcoreapp2.0\EMS.DataLayer.AssemblyInfoInputs.cache
+D:\softawre project\WebAPI\Chathura\EMS\EMS.DataLayer\obj\Debug\netcoreapp2.0\EMS.DataLayer.AssemblyInfo.cs
+D:\softawre project\WebAPI\Chathura\EMS\EMS.DataLayer\bin\Debug\netcoreapp2.0\EMS.DataLayer.pdb
+D:\softawre project\WebAPI\Chathura\EMS\EMS.DataLayer\obj\Debug\netcoreapp2.0\EMS.DataLayer.dll
+D:\softawre project\WebAPI\Chathura\EMS\EMS.DataLayer\obj\Debug\netcoreapp2.0\EMS.DataLayer.pdb
